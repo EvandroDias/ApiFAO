@@ -1,0 +1,56 @@
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Tests.deps.json
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Tests.runtimeconfig.json
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Tests.runtimeconfig.dev.json
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Tests.dll
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Tests.pdb
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Domain.dll
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Shared.dll
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Domain.pdb
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Shared.pdb
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Tests\obj\Debug\netcoreapp2.0\CursoBaltieri.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Tests\obj\Debug\netcoreapp2.0\CursoBaltieri.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Tests\obj\Debug\netcoreapp2.0\CursoBaltieri.Tests.AssemblyInfoInputs.cache
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Tests\obj\Debug\netcoreapp2.0\CursoBaltieri.Tests.AssemblyInfo.cs
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Tests\obj\Debug\netcoreapp2.0\CursoBaltieri.Tests.dll
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Tests\obj\Debug\netcoreapp2.0\CursoBaltieri.Tests.pdb
+I:\Dragon\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+I:\Dragon\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+I:\Dragon\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+I:\Dragon\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Tests.deps.json
+I:\Dragon\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Tests.runtimeconfig.json
+I:\Dragon\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Tests.runtimeconfig.dev.json
+I:\Dragon\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Tests.dll
+I:\Dragon\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Tests.pdb
+I:\Dragon\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Domain.dll
+I:\Dragon\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Shared.dll
+I:\Dragon\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Domain.pdb
+I:\Dragon\source\repos\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Shared.pdb
+I:\Dragon\source\repos\CursoBaltieri\CursoBaltieri.Tests\obj\Debug\netcoreapp2.0\CursoBaltieri.Tests.csprojResolveAssemblyReference.cache
+I:\Dragon\source\repos\CursoBaltieri\CursoBaltieri.Tests\obj\Debug\netcoreapp2.0\CursoBaltieri.Tests.csproj.CoreCompileInputs.cache
+I:\Dragon\source\repos\CursoBaltieri\CursoBaltieri.Tests\obj\Debug\netcoreapp2.0\CursoBaltieri.Tests.AssemblyInfoInputs.cache
+I:\Dragon\source\repos\CursoBaltieri\CursoBaltieri.Tests\obj\Debug\netcoreapp2.0\CursoBaltieri.Tests.AssemblyInfo.cs
+I:\Dragon\source\repos\CursoBaltieri\CursoBaltieri.Tests\obj\Debug\netcoreapp2.0\CursoBaltieri.Tests.csproj.CopyComplete
+I:\Dragon\source\repos\CursoBaltieri\CursoBaltieri.Tests\obj\Debug\netcoreapp2.0\CursoBaltieri.Tests.dll
+I:\Dragon\source\repos\CursoBaltieri\CursoBaltieri.Tests\obj\Debug\netcoreapp2.0\CursoBaltieri.Tests.pdb
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Tests.deps.json
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Tests.runtimeconfig.json
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Tests.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Tests.dll
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Tests.pdb
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Domain.dll
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Shared.dll
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Domain.pdb
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Tests\bin\Debug\netcoreapp2.0\CursoBaltieri.Shared.pdb
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Tests\obj\Debug\netcoreapp2.0\CursoBaltieri.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Tests\obj\Debug\netcoreapp2.0\CursoBaltieri.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Tests\obj\Debug\netcoreapp2.0\CursoBaltieri.Tests.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Tests\obj\Debug\netcoreapp2.0\CursoBaltieri.Tests.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Tests\obj\Debug\netcoreapp2.0\CursoBaltieri.Tests.csproj.CopyComplete
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Tests\obj\Debug\netcoreapp2.0\CursoBaltieri.Tests.dll
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Tests\obj\Debug\netcoreapp2.0\CursoBaltieri.Tests.pdb

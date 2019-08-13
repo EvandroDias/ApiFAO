@@ -1,0 +1,41 @@
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Infra\bin\Release\netcoreapp2.0\CursoBaltieri.Infra.deps.json
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Infra\bin\Release\netcoreapp2.0\CursoBaltieri.Infra.dll
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Infra\bin\Release\netcoreapp2.0\CursoBaltieri.Infra.pdb
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Infra\bin\Release\netcoreapp2.0\CursoBaltieri.Domain.dll
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Infra\bin\Release\netcoreapp2.0\CursoBaltieri.Shared.dll
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Infra\bin\Release\netcoreapp2.0\CursoBaltieri.Domain.pdb
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Infra\bin\Release\netcoreapp2.0\CursoBaltieri.Shared.pdb
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Infra\obj\Release\netcoreapp2.0\CursoBaltieri.Infra.csprojResolveAssemblyReference.cache
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Infra\obj\Release\netcoreapp2.0\CursoBaltieri.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Infra\obj\Release\netcoreapp2.0\CursoBaltieri.Infra.AssemblyInfoInputs.cache
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Infra\obj\Release\netcoreapp2.0\CursoBaltieri.Infra.AssemblyInfo.cs
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Infra\obj\Release\netcoreapp2.0\CursoBaltieri.Infra.dll
+C:\Users\Dragon-Pc\source\repos\CursoBaltieri\CursoBaltieri.Infra\obj\Release\netcoreapp2.0\CursoBaltieri.Infra.pdb
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Infra\bin\Release\netcoreapp2.0\CursoBaltieri.Infra.deps.json
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Infra\bin\Release\netcoreapp2.0\CursoBaltieri.Infra.dll
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Infra\bin\Release\netcoreapp2.0\CursoBaltieri.Infra.pdb
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Infra\bin\Release\netcoreapp2.0\CursoBaltieri.Domain.dll
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Infra\bin\Release\netcoreapp2.0\CursoBaltieri.Shared.dll
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Infra\bin\Release\netcoreapp2.0\CursoBaltieri.Domain.pdb
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Infra\bin\Release\netcoreapp2.0\CursoBaltieri.Shared.pdb
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Infra\obj\Release\netcoreapp2.0\CursoBaltieri.Infra.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Infra\obj\Release\netcoreapp2.0\CursoBaltieri.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Infra\obj\Release\netcoreapp2.0\CursoBaltieri.Infra.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Infra\obj\Release\netcoreapp2.0\CursoBaltieri.Infra.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Infra\obj\Release\netcoreapp2.0\CursoBaltieri.Infra.csproj.CopyComplete
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Infra\obj\Release\netcoreapp2.0\CursoBaltieri.Infra.dll
+C:\Users\Usuario\Documents\Sites Viual Studio\CursoBaltieri\CursoBaltieri.Infra\obj\Release\netcoreapp2.0\CursoBaltieri.Infra.pdb
+C:\Users\Usuario\Documents\Sites Viual Studio\AppBolao\CursoBaltieri.Infra\bin\Release\netcoreapp2.0\CursoBaltieri.Infra.deps.json
+C:\Users\Usuario\Documents\Sites Viual Studio\AppBolao\CursoBaltieri.Infra\bin\Release\netcoreapp2.0\CursoBaltieri.Infra.dll
+C:\Users\Usuario\Documents\Sites Viual Studio\AppBolao\CursoBaltieri.Infra\bin\Release\netcoreapp2.0\CursoBaltieri.Infra.pdb
+C:\Users\Usuario\Documents\Sites Viual Studio\AppBolao\CursoBaltieri.Infra\bin\Release\netcoreapp2.0\CursoBaltieri.Domain.dll
+C:\Users\Usuario\Documents\Sites Viual Studio\AppBolao\CursoBaltieri.Infra\bin\Release\netcoreapp2.0\CursoBaltieri.Shared.dll
+C:\Users\Usuario\Documents\Sites Viual Studio\AppBolao\CursoBaltieri.Infra\bin\Release\netcoreapp2.0\CursoBaltieri.Domain.pdb
+C:\Users\Usuario\Documents\Sites Viual Studio\AppBolao\CursoBaltieri.Infra\bin\Release\netcoreapp2.0\CursoBaltieri.Shared.pdb
+C:\Users\Usuario\Documents\Sites Viual Studio\AppBolao\CursoBaltieri.Infra\obj\Release\netcoreapp2.0\CursoBaltieri.Infra.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Sites Viual Studio\AppBolao\CursoBaltieri.Infra\obj\Release\netcoreapp2.0\CursoBaltieri.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Sites Viual Studio\AppBolao\CursoBaltieri.Infra\obj\Release\netcoreapp2.0\CursoBaltieri.Infra.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Sites Viual Studio\AppBolao\CursoBaltieri.Infra\obj\Release\netcoreapp2.0\CursoBaltieri.Infra.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Sites Viual Studio\AppBolao\CursoBaltieri.Infra\obj\Release\netcoreapp2.0\CursoBaltieri.Infra.csproj.CopyComplete
+C:\Users\Usuario\Documents\Sites Viual Studio\AppBolao\CursoBaltieri.Infra\obj\Release\netcoreapp2.0\CursoBaltieri.Infra.dll
+C:\Users\Usuario\Documents\Sites Viual Studio\AppBolao\CursoBaltieri.Infra\obj\Release\netcoreapp2.0\CursoBaltieri.Infra.pdb

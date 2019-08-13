@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXEwjZ+f11UK9cIDgMagVmwAAAAACAAAAAAAQZgAAAAEAACAAAABISDyywBcRp1k5lwLzUcjC9Pb3h5uLquukIhV88G4PJQAAAAAOgAAAAAIAACAAAACytwIoeNpITblId5AA7CfKhKBKbh3ILicyGvVu+kvn14AAAADW5nEUNgqUJWLMUC88d2NG4wXI/ru5vyIwRagHUOd7Wi5ARLw+Nj7sqKBVM74AJo07m4+A/kxydjmd5LKm3iBXwhGQ7xEmteGmGUQtbf7pysUlKi6sv9ACctdYQN8V743vdezloedbPQRZ51hWcLvb4F0MeqPTWnfXgmZFfZcJEEAAAAAiDf3sWHrSA/pIC/MR3/txv6gkP23j5ZMqSUN9jtb6oMxF0Laf+VUOsG4M0mHKsP14QEybC0zv4XpaEIWf+28K</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.gear.host/http://appcupom.gearhostpreview.com/</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
